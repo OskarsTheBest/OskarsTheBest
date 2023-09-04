@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oskars</h1>
 <h3 align="center">An ___ dev</h3>
 
-- 🔭 I’m currently working on **Different Projects for my Portfolio and School**
+- 🔭 I’m currently working on **Different Projects for my Portfolio and University**
 
-- 🌱 I’m currently learning **Rust, Python and React**
+- 🌱 I’m currently learning **C++, Python and React**
 
 - 📫 How to reach me **oskarsbest@gmail.com**
 
